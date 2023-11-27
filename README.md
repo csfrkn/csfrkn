@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.pinterest.com/pin/66217057015448663/](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif))
+[![MasterHead](https://i.pinimg.com/736x/75/87/df/7587df77ef521cf98057d0028ee983f1.jpg)
 <h1 align="center">Hi 👋, I'm Furkan Gencer</h1>
 <h3 align="center">Mobile Developer and Tester</h3>
 
