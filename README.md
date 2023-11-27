@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/3c/e4/39/3ce439a152a704da5f7e52c6902689ab.jpg)
+![MasterHead](https://i.pinimg.com/564x/3c/e4/39/3ce439a152a704da5f7e52c6902689ab.jpg)
 <h1 align="center">Hi 👋, I'm Furkan Gencer</h1>
 <h3 align="center">Mobile Developer and Tester</h3>
 
