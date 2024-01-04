@@ -1,6 +1,6 @@
 <img src ="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" height ="600" width="1800">
 <h1 align="center">Hi 👋, I'm Furkan Gencer</h1>
-<h3 align="center">Mobile Developer and Tester</h3>
+<h3 align="center">Developer and Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csfrkn&label=Profile%20views&color=0e75b6&style=flat" alt="csfrkn" /> </p>
 
